@@ -46,7 +46,6 @@
     <meta name="google-site-verification" content="PkK9GUPVRf-S01rvWAe14NLSbrtFb57dyyOMEDdtCx8" />
     <meta name="keywords" content="Angeles, Nayeli, Farfan, Pinazo" />
     <meta name="autor" contend="Angeles Nayeli Farfan Pinazo" />
-    <title>Angeles Nayeli Farfan Pinazo</title>
     <style>
       h1 {
            text-align: center;
