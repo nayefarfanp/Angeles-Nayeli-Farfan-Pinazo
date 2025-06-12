@@ -1,5 +1,4 @@
-# Angeles-Nayeli-Farfan-Pinazo
-<!DOCTYPE html>
+# Angeles-Nayeli-Farfan-Pinazo 
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -7,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Nayeli-Farfan-Pinazo</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Nayeli-Farfan-Pinazo" />
 <meta property="og:locale" content="en_US" />
@@ -60,10 +58,10 @@
             color: #1883a0;
       }
       h1 {
-            color: #fdfdfd;      
+            color: #51a250;      
       }
       h1 {
-          background-color: #1883a0; 
+          background-color: #94d893; 
           padding: 80px;
       }
       h2, p, h3 {
